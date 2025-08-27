@@ -1,0 +1,7 @@
+{
+  "name": "example-nextjs-app",
+  "private": true,
+  "dependencies": {
+    "@cdaprod/revenue-gateway-sdk": "^0.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+      "kty": "oct",
+      "k": "dev-secret",
+      "alg": "HS256",
+      "use": "sig"
+    }
+  ]
+}

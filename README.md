@@ -41,3 +41,10 @@ Namespacing & conventions (fits your style)
 TL;DR
 
 Yes—run it separate and route users to/from it based on auth with a signed handoff. Call it Cdaprod/revenue-gateway. Scaffold it as a tiny Next.js portal + adapters + SDK. Subsidiary apps adopt a one-file middleware and a small webhook, keep their own auth, and inherit/override plan logic as needed. This gives you one revenue brain powering all your Vercel apps—clean, composable, monetizable. 🐮
+## Development
+
+```sh
+npm install
+npm test
+```
+

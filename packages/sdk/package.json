@@ -1,0 +1,10 @@
+{
+  "name": "@cdaprod/revenue-gateway-sdk",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@cdaprod/revenue-config": "^0.1.0"
+  }
+}
