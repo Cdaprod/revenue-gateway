@@ -1,0 +1,13 @@
+{
+  "name": "revenue-gateway",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*", "examples/*"],
+  "scripts": {
+    "build": "tsc -b",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vitest": "^1.5.0"
+  }
+}

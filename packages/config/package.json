@@ -1,0 +1,7 @@
+{
+  "name": "@cdaprod/revenue-config",
+  "version": "0.1.0",
+  "main": "src/plans.ts",
+  "types": "src/plans.ts",
+  "license": "MIT"
+}
